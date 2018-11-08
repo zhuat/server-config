@@ -13,3 +13,4 @@ spring:
     name: eureka-server
   security:
     csrf: false
+foo: 333
